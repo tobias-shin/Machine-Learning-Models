@@ -1,4 +1,4 @@
-# Decision Tree From Scratch
+# Decision Tree
 
 This is a small, dependency-free decision tree classifier built from scratch in Python.
 
